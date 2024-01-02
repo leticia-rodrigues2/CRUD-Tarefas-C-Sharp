@@ -1,0 +1,16 @@
+# Arquivos temporários criados por Visual Studio
+.vscode/
+.vs/
+
+# Pasta de saída de compilação
+bin/
+obj/
+
+# Pasta de dependências (NuGet)
+packages/
+./appsettings
+
+# Arquivo de configuração do Visual Studio
+*.suo
+*.user
+*.sln.docstates
